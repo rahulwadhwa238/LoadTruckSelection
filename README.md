@@ -4,7 +4,8 @@ This python scripts works upon Selection Stratergy of the Best Load Truck for a 
 To maximize a courier company profit, the algorithm finds the best available Load Truck.
 
 <h3>Given:</h3>
-  <b>A number of Load Trucks, each having its own properties</b><br>
+  <b>A number of Load Trucks, each having its own properties</b>
+  <br>
   <ul>
     <li>Vehicle Number</li><br>
     <li>Rate (Price/Km)</li><br>
