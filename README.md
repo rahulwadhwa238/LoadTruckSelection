@@ -5,7 +5,7 @@ To maximize a courier company profit, the algorithm finds the best available Loa
 
 <h3>Given:</h3>
   <b>A number of Load Trucks, each having its own properties</b>
-  <br>
+  <br><br>
   <ul>
     <li>Vehicle Number</li><br>
     <li>Rate (Price/Km)</li><br>
